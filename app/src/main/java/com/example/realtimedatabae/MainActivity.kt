@@ -9,7 +9,7 @@ import android.os.Bundle
 import android.widget.Toast
 import com.example.realtimedatabae.databinding.ActivityMainBinding
 import com.google.firebase.database.*
-
+//read and write ga tarif berib kettim
 //yozishi switchni bosganimizda true false bolsa ->yozish boladi
 // oqib olish esa ->boshqa telefonga ornatsa biz true false qilsak unda ham ozgarishi
 class MainActivity : AppCompatActivity() {
