@@ -10,6 +10,8 @@ import android.widget.Toast
 import com.example.realtimedatabae.databinding.ActivityMainBinding
 import com.google.firebase.database.*
 
+//yozishi switchni bosganimizda true false bolsa ->yozish boladi
+// oqib olish esa ->boshqa telefonga ornatsa biz true false qilsak unda ham ozgarishi
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
     private lateinit var firebaseDatabase: FirebaseDatabase
